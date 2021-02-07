@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// i need only grid system of bootstrap v 4.6
+import './assets/styles/bootstrap-grid.css';
 
 ReactDOM.render(
   <React.StrictMode>

@@ -4,7 +4,7 @@ import ListArea from "../components/listArea";
 class Main extends Component {
     render() {
         return (
-            <div>
+            <div >
                 <ListArea />
             </div>
         );
